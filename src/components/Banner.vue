@@ -9,7 +9,7 @@
 export default {
   data() {
     return {
-      title: "Insights & Resources",
+      title: "Hello",
       description: "Introductory copy that goes underneath the H1 to better contextualise what this does and who it’s for.",
     };
   },
